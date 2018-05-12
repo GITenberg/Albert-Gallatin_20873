@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9582
 description: Abraham Alfonse Albert Gallatin was born in Geneva, Switzerland, January
   29, 1761. He came to America in 1780.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20873#Albert-Gallatin
 gutenberg_issued: '2007-03-22'
 gutenberg_type: Text
 identifiers:
