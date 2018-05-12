@@ -1,0 +1,28 @@
+_repo: Albert-Gallatin_20873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevens, John Austin
+    birthdate: 1827
+    deathdate: 1910
+    gutenberg_agent_id: '9582'
+    url: http://www.gutenberg.org/2009/agents/9582
+description: Abraham Alfonse Albert Gallatin was born in Geneva, Switzerland, January
+  29, 1761. He came to America in 1780.
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American Statesmen, Volume 13
+subjects:
+- !lcc 'E300'
+- !lcsh 'Gallatin, Albert, 1761-1849'
+title: Albert Gallatin
+url: http://www.gutenberg.org/ebooks/20873
